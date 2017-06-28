@@ -1,0 +1,16 @@
+一、正式版的
+1、keystore的位置：本项目下的 gaodemap.jks
+2、keystore的密码：hongliang
+3、它的MD5：F4:38:2D:43:6A:A7:84:1D:87:47:47:42:E9:5F:6C:48
+4、它的SHA1：B0:3C:11:DF:9E:72:BD:A4:70:94:B7:52:FE:DE:71:28:54:E3:03:4F
+5、它的SHA256：50:FF:57:2E:34:01:F7:CE:2A:70:AF:D3:9D:87:29:58:3D:8C:1C:3D:0C:DD:E0:88:BA:28:97:2C:F4:AA:E4:87
+6、它的算法名称：SHA256withRSA
+
+
+二、测试版的
+1、keystore的位置：.android文件下的 debug.keystore
+2、keystore的密码：android
+3、它的MD5：3B:2B:AC:43:65:B1:59:A5:09:51:3F:44:47:A8:08:13
+4、它的SHA1：92:F6:5A:3E:55:7B:E2:62:1B:99:76:50:E4:06:5E:2D:43:2D:CE:4F
+5、它的SHA256：4B:AF:DE:A7:24:5F:12:A0:47:4F:44:C4:A9:99:4B:A3:80:67:3E:83:E9:95:1F:DC:53:B1:10:77:4A:61:08:9C
+6、它的算法名称：SHA1withRSA
